@@ -20,6 +20,9 @@
 
 * [Cubic Beziers] (http://cubic-bezier.com/): Test motion curves
 
+##Git
+* [Learn Git] (http://kevinsuttle.com/learn-git/): by Kevin Suttle
+
 ##Terminal
 ###Create an alias:
 
