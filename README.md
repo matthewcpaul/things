@@ -2,25 +2,35 @@
 
 ##In a galaxy very, very close by
 ####Theme: Less Talking, More Writing
-* Travel
 * Contribute to open source projects
 * Get better at organization
-* Speak at conferences
+* Speak at [conferences] (https://github.com/mclydep/mclydep.github.io/blob/master/conferences/conferences.md)
+* Go to FED meetups
 * Process: do it, show it, talk about it
-* Keep up with friends/family more
-* Build side projects/products
-* Write Blog Posts
+* Build [side projects] (https://github.com/mclydep/mclydep.github.io/blob/master/projects/projects.md)
+* Use Jekyll again
+* Write blog posts
 * Say no to projects that I know I won't do
 * Get better at personal finances, invest, save
 * Lead another project at IBM Design
 * Read more
+* Travel
+* Keep up with friends/family more
 
+##Side Project Backlog
+####With Patrick
+* [ ] Y'all ready for this (5/29)
+* [ ] Print Shop brand, identity, and small site
+	* [ ] Name and Manifesto (5/29)
 
-##Backlog
+####Personal
+* [ ] Smarter Planet icons in CSS + animate
+* [ ] Ship IBM logo project (8-bars and Solid iOS)
+* [ ] MobileFirst playing cards
+* [ ] MobileFirst type lockups
+* [ ] What is Smarter Planet today? (writing project)
 * [ ] Plan Skillshare Class
-	* svg animation
+	* svg SMIL animation
 	* 0-60 responsive grids/terminal for designers
-* [ ] New headshot or soemething
 * [ ] M1 DL template for sketch
 * [ ] More IBM DL CSS animations
-* [ ] Podcast my blog posts

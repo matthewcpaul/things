@@ -16,16 +16,3 @@ Daily-ish doodles of silly ideas, puns, and sub-culture. Drawing fast with minim
 
 ####IV. Typeahead
 A blog about web typography. Yet to find the niche I want to be in here, but the idea is to help progress the landscape of web typography.
-
-##Side Projects
-####With Patrick
-* [ ] Y'all ready for this (5/29)
-* [ ] Print Shop brand, identity, and small site
-	* Name and Manifesto (5/29)
-
-####Personal
-* [ ] MobileFirst playing cards
-* [ ] MobileFirst type lockups
-* [ ] Smarter Planet icons in CSS
-* [ ] What is Smarter Planet today (writing)
-* [ ] Ship IBM logo project
