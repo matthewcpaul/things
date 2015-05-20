@@ -34,3 +34,5 @@
 	* 0-60 responsive grids/terminal for designers
 * [ ] M1 DL template for sketch
 * [ ] More IBM DL CSS animations
+* [ ] Eye Bee M Emoji poster + CSS Animation
+* [ ] Personal face illustration + SVG Animation (Blinking)
