@@ -5,19 +5,19 @@
 * [Lineto] (http://lineto.com/): Circular, Akkurat
 * [Okay Type] (http://okaytype.com/hello/friend): Alright Sans, Harriet
 
+##Sass
+* [When to use @extend; when to use a mixin] (http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+* [OOCSS + Sass] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/): by Ian Storm Taylor
+* [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass) by Jaime Caballero
+* [Intro to semantic front-end architecture] (http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+
 ##SVG Animation
 * [Introduction to SMIL] (http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil) by Noah Blon
-
 * [A Guide to SVG Animations] (https://css-tricks.com/guide-svg-animations-smil/) by Sara Soueidan
-
 * [CSS & SVG/SMIL Animation] (http://slides.com/sarasoueidan/animating-svg-with-css-and-smil__fonteers#/) by Sara Soueidan
-
 * [SVG Coordinate System] (http://sarasoueidan.com/blog/svg-coordinate-systems/) by Sara Soueidan
-
 * [SVG Paths & Curves] (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths): Writing your own SVGs and Bézier Curves
-
 * [Pocket Guide to Writing SVG] (http://svgpocketguide.com/book/): Writing your own SVGs
-
 * [Cubic Beziers] (http://cubic-bezier.com/): Test motion curves
 
 ##Git
@@ -36,11 +36,6 @@
 ###Create a branch, and push a ingle folder to that branch (gh-pages)
 * [deploy to gh-pages] (http://www.damian.oquanta.info/posts/one-line-deployment-of-your-site-to-gh-pages.html)
 
-##Sass
-* [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass) by Jaime Caballero
-
-* [Intro to semantic front-end architecture] (http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
-
 ##Icon Fonts
 * [IcoMoon] (https://icomoon.io/): Make your own icon font
 	*  icomoon: runs entirely in your broweser, which is pretty sweet
@@ -52,7 +47,6 @@
 
 ##Style Guides
 * [Styleguide Guide] (http://vinspee.me/style-guide-guide/): Various options
-
 * [Styleguide Generators] (http://welchcanavan.com/styleguide-roundup/): Write up about a few of those options
 
 ##Gulp
