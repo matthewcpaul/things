@@ -8,7 +8,7 @@
 * Go to FED meetups
 * Process: do it, show it, talk about it
 * Build [side projects] (https://github.com/mclydep/mclydep.github.io/blob/master/projects/projects.md)
-* Build an organized library of [resources] (https://github.com/mclydep/mclydep.github.io/blob/master/resources/front-end.md)
+* Build an organized library of [resources] (https://github.com/mclydep/mclydep.github.io/blob/master/Resources.md)
 * Use Jekyll again
 * Write blog posts
 * Say no to projects that I know I won't do
