@@ -11,6 +11,9 @@
 * [OOSass] (http://thesassway.com/intermediate/using-object-oriented-css-with-sass) by Jaime Caballero
 * [Intro to semantic front-end architecture] (http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
+##CSS
+* [CSS Attribute Selectors] (https://css-tricks.com/attribute-selectors/)
+
 ##SVG Animation
 * [Introduction to SMIL] (http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil) by Noah Blon
 * [A Guide to SVG Animations] (https://css-tricks.com/guide-svg-animations-smil/) by Sara Soueidan
