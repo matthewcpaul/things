@@ -21,10 +21,10 @@
 ##Side Project Backlog
 ####With Patrick
 * [ ] Y'all ready for this (5/29)
-* [ ] Print Shop brand, identity, and small site
-	* [ ] Name and Manifesto (5/29)
+* [ ] Print Shop brand, name and manifesto (5/29)
 
 ####Personal
+* [ ] Landing page for The Dinner Table
 * [ ] Smarter Planet icons in CSS + animate
 * [ ] Ship IBM logo project (8-bars and Solid iOS)
 * [ ] MobileFirst playing cards
