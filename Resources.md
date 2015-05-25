@@ -6,6 +6,9 @@
 * [Okay Type] (http://okaytype.com/hello/friend): Alright Sans, Harriet
 * *test*
 
+##Typography
+* [Responsive Typography with REMs] (https://bugsnag.com/blog/responsive-typography-with-rems): by Max Luster
+
 ##Sass
 * [When to use @extend; when to use a mixin] (http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 * [OOCSS + Sass] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/): by Ian Storm Taylor
