@@ -4,7 +4,6 @@
 * [Klim] (https://klim.co.nz/): Domaine, Calibre, Founders Grotesk, National
 * [Lineto] (http://lineto.com/): Circular, Akkurat
 * [Okay Type] (http://okaytype.com/hello/friend): Alright Sans, Harriet
-* *test*
 
 ##Typography
 * [Responsive Typography with REMs] (https://bugsnag.com/blog/responsive-typography-with-rems): by Max Luster
@@ -42,6 +41,9 @@
 
 ###Create a branch, and push a ingle folder to that branch (gh-pages)
 * [deploy to gh-pages] (http://www.damian.oquanta.info/posts/one-line-deployment-of-your-site-to-gh-pages.html)
+
+##Javascript
+* [Learn Javascript] (http://gitbookio.gitbooks.io/javascript/content/en/index.html): Basics of programming and JS
 
 ##Icon Fonts
 * [IcoMoon] (https://icomoon.io/): Make your own icon font
