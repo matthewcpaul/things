@@ -30,17 +30,17 @@
 * [Learn Git] (http://kevinsuttle.com/learn-git/): by Kevin Suttle
 
 ##Terminal
-###Create an alias:
+* [Command Line Tools](http://seesparkbox.com/foundry/command_line_tools_for_frontend_developers)
+* [Deploy to gh-pages] (http://www.damian.oquanta.info/posts/one-line-deployment-of-your-site-to-gh-pages.html)
+
+##Create an alias
 
 1. type `~/.zshrc` in the terminal
 2. add `source "/Users/username/.aliases.sh"` near the top
 	* change username to your own (matthewpaul)
 3. cmd-shift-S to duplicate the file in TextEdit, and rename it `.aliases.sh`
 4. delete all, and add `alias emojis="open http://www.emoji-cheat-sheet.com/"`
-5. type `emojis` in the terminal 
-
-###Create a branch, and push a ingle folder to that branch (gh-pages)
-* [deploy to gh-pages] (http://www.damian.oquanta.info/posts/one-line-deployment-of-your-site-to-gh-pages.html)
+5. type `emojis` in the terminal
 
 ##Javascript
 * [Learn Javascript] (http://gitbookio.gitbooks.io/javascript/content/en/index.html): Basics of programming and JS
