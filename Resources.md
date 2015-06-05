@@ -7,6 +7,7 @@
 
 ##Typography
 * [Responsive Typography with REMs] (https://bugsnag.com/blog/responsive-typography-with-rems): by Max Luster
+* [Type Scales](http://www.gridlover.net/app/)
 
 ##Sass
 * [When to use @extend; when to use a mixin] (http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
