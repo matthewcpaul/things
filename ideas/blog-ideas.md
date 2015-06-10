@@ -1,6 +1,7 @@
 #Blog Ideas
 ######A working list of upcoming blog posts. These are the things I care about and think about while making things.
 
+* `picture` This: Art Directing Your Responsive Images
 * How dribbble has helps me as a designer
 * Web Dev workflow for a designer (0-60)
 * Thoughts on a future-forward portfolio
