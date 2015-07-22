@@ -20,13 +20,14 @@
 
 ##Side Project Backlog
 ####With Patrick
-* [ ] Y'all ready for this (5/29)
+* [x] Y'all ready for this (5/29)
 * [ ] Print Shop brand, name and manifesto (5/29)
 
 ####Personal
+* [ ] Fonts.com Monotype Illustration
 * [ ] Landing page for The Dinner Table
 * [ ] Smarter Planet icons in CSS + animate
-* [ ] Ship IBM logo project (8-bars and Solid iOS)
+* [x] Ship IBM logo project (8-bars and Solid iOS)
 * [ ] MobileFirst playing cards
 * [ ] MobileFirst type lockups
 * [ ] What is Smarter Planet today? (writing project)
