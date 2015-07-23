@@ -13,6 +13,7 @@
 * Write blog posts
 * Say no to projects that I know I won't do
 * Get better at personal finances, invest, save
+* Exercise and get fit
 * Lead another project at IBM Design
 * Read more
 * Travel
