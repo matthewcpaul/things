@@ -2,6 +2,8 @@
 
 ##In a galaxy very, very close by
 ####Theme: Less Talking, More Writing
+* Get better at teaming
+* Be more optimistic
 * Contribute to open source projects
 * Get better at organization
 * Speak at [conferences] (https://github.com/mclydep/mclydep.github.io/blob/master/conferences/conferences.md)
@@ -21,7 +23,7 @@
 
 ##Side Project Backlog
 ####IBM MakeLab
-* [ ] Print Shop brand, name and manifesto (5/29)
+* [ ] Print Shop brand, name and manifesto
 
 ####Personal
 * [ ] Fonts.com Monotype Illustration
