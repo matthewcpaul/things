@@ -24,7 +24,8 @@
 
 ### Personal
 - [x] Respond to Jasmine in FBDG
-- [ ] Close all chrome windows
+- [x] Close all old chrome windows
+- [ ] Read open web articles and start an articles section of my library
 - [x] Decide on Chase Sapphire Reserve card
 - [ ] Move $ from UBS to Vanguard investments
 - [ ] Schedule therapist appointment
