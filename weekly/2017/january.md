@@ -23,6 +23,7 @@
 - [x] Check in on SXSW volunteer duties
 
 ### Personal
+- [x] Respond to Jasmine in FBDG
 - [ ] Close all chrome windows
 - [x] Decide on Chase Sapphire Reserve card
 - [ ] Move $ from UBS to Vanguard investments
