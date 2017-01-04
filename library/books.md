@@ -1,8 +1,11 @@
-#Books
-##Books I've read
-* Title :two_hearts:
-* Title :thumbsup:
-* Title :unamused:
+# Books
+## Books I’ve read
+- The Shape of Design :two_hearts:
+- Product Design for the Web :thumbsup:
+- Add more...
 
-##In the queu
-* Title
+## Books I’m reading
+- Sin & Syntax
+
+## In the queue
+* Add more...
