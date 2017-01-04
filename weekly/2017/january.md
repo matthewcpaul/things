@@ -3,7 +3,7 @@
 ## Week of Jan 02
 
 ### Product
-- [ ] **Finish first color exploration w/out thumbnails**
+- [x] **Finish first color exploration w/out thumbnails**
 - [ ] **Second option for high fidelity color mockups**
 - [ ] Illustrate practice thumbnails
 - [ ] Fix flexbox card vertical alignment/justification
@@ -24,7 +24,7 @@
 
 ### Personal
 - [ ] Close all chrome windows
-- [ ] Decide on Chase Sapphire Reserve card
+- [x] Decide on Chase Sapphire Reserve card
 - [ ] Move $ from UBS to Vanguard investments
 - [ ] Schedule therapist appointment
 - [ ] Compile 2017 conference list
