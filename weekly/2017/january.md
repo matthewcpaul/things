@@ -4,7 +4,9 @@
 
 ### Product
 - [x] **Finish first color exploration w/out thumbnails**
-- [ ] **Second option for high fidelity color mockups**
+- ~~Second option for high fidelity color mockups~~
+- [x] **Prototype all views, states, interactions in Hi-Fi**
+- [x] Help setup project/iteration management with ZenHub and Labels
 - [ ] Illustrate practice thumbnails
 - [ ] Fix flexbox card vertical alignment/justification
 - [ ] Create issues for all implementation details/misses
@@ -15,12 +17,13 @@
 
 
 ### Non-Product
-- [ ] Portfolio reviews
+- [x] Portfolio reviews
 - [ ] Update a couple Rapid 1.0.0 PRs to match 1.0.0-alpha.1 code
 - [ ] Screen print last color of DD print
 - [ ] Documentation of Rapid work done in 2016
 - [ ] Create foundation for Rapid design system and components in Sketch
 - [x] Check in on SXSW volunteer duties
+- [ ] Email Doug Powell about Artist in Residence program for Make Lab
 
 ### Personal
 - [x] Respond to Jasmine in FBDG
