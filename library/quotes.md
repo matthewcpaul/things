@@ -24,4 +24,4 @@
 
 “Designing from the type outwards.”
 
-—Elliot Jay Stock
+—Elliot Jay Stocks
