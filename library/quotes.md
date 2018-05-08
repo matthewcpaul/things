@@ -1,6 +1,6 @@
 # Quotes
 
-### These are snippets that I have heard from friends in the industry or that I have read by people that I admire.
+## These are snippets that I have heard from friends in the industry or that I have read by people that I admire.
 
 “In each decade, I have looked to acquire the skills that can keep myself ahead of the machine. I know it to be an impossible task, but I also don't give up easily. I guess I’m more of a warrior than a worrier. And I’m excited about the challenges that are coming to design.”
 
